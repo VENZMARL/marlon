@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/marlon/static/css/main.bf1bcb84.css",
+    "main.js": "/marlon/static/js/main.6503f58d.js",
+    "static/js/453.ed3810f9.chunk.js": "/marlon/static/js/453.ed3810f9.chunk.js",
+    "static/media/bike 4.jpg": "/marlon/static/media/bike 4.0638ab1ecbe946f161aa.jpg",
+    "static/media/bike 1.jpg": "/marlon/static/media/bike 1.84d5357258e567cc021f.jpg",
+    "static/media/bike 2.jpg": "/marlon/static/media/bike 2.f28f1e508e47e56ba1f4.jpg",
+    "static/media/bike 3.jpg": "/marlon/static/media/bike 3.ad22b960aa250453c8da.jpg",
+    "index.html": "/marlon/index.html",
+    "main.bf1bcb84.css.map": "/marlon/static/css/main.bf1bcb84.css.map",
+    "main.6503f58d.js.map": "/marlon/static/js/main.6503f58d.js.map",
+    "453.ed3810f9.chunk.js.map": "/marlon/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1bcb84.css",
+    "static/js/main.6503f58d.js"
+  ]
+}
